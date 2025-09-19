@@ -63,13 +63,13 @@
   "wf9": 3500.00,
   "wf10": 4000.00,
   "wf11": 4500.00,
-  "u1": 55.00,
+  "u1": 67.00,
   "u2": 35.00,
-  "u3": 15.00,
-  "uf": 2000.00,
+  "u3": 21.00,
+  "uf": 2100.00,
   "a1": 23.00,
   "a2": 13.00,
-  "a3": 8.00,
+  "a3": 7.00,
   "af": 750.00,
   "notenew":"New Tariff Updated",
   "noterate":"https://www.youtube.com",
@@ -85,6 +85,7 @@
   "note10agr": "Lower Tariff for Greener Fields"
   
 }
+
 
 
 
